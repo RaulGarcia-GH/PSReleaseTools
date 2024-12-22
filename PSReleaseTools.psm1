@@ -1,3 +1,5 @@
+# Trivial change
+
 #load functions
 Get-ChildItem -Path $PSScriptRoot\functions\*.ps1 |
 ForEach-Object {
